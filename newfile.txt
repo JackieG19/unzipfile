@@ -1,1 +1,34 @@
-dvbdajvbdjkv
+ 204  cd samplefiles.zip
+  205  unzip
+  206  ls
+  207  samplefiles.zip
+  208  unzip
+  209  history
+  210  unzip
+  211* 
+  212  unzip  samplefiles.zip
+  213  cd round1b
+  214  mkdir NewFile
+  215  rm NewFile
+  216  touch newfile.txt
+  217  mkdir NewFile
+  218  touch newfile.txt
+  219  cd newfile.txt
+  220  git init
+  221  git add hello.rb
+  222  git add newfile.txt
+  223  git commit -m "First Commit"
+  224  mkdir secnewfile.txt
+  225  touch secnew.txt
+  226  add secnew.txt
+  227  git status
+  228  git add secnew.txt
+  229  git commit -m "First Commit"
+  230  git status
+  231  git add stable/
+  232  git status
+  233  git add steed/
+  234  git status
+  235  rm secnew.txt
+  236  git branch 
+  237  history
